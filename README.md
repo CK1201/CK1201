@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I obtained my Bachelor's degree in Electronic and Information Engineering in 2022 from [Xidian University](https://en.xidian.edu.cn/). And I will study for my professional master's degree at [Harbin Institute of Technology,Shenzhen](http://en.hitsz.edu.cn/) in September, 2022.
+🌱 I obtained my Bachelor's degree in Electronic and Information Engineering in 2022 from [Xidian University](https://en.xidian.edu.cn/). And I will study for my professional master's degree at [Harbin Institute of Technology, Shenzhen](http://en.hitsz.edu.cn/) in September, 2022.
 
 😄 I'm interested in UAV, MPC and motion planning.
 

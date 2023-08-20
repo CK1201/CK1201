@@ -3,7 +3,7 @@
 
 😄 I'm interested in UAV, MPC and motion planning.
 
-📫 Email: ckwu1201@163.com
+📫 Email: chengkaiwu12@gmail.com
 <!--
 **CK1201/CK1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,9 +1,6 @@
 ### Hi there 👋
-🌱 I obtained my Bachelor's degree in Electronic and Information Engineering in 2022 from [Xidian University](https://en.xidian.edu.cn/). I'm currently pursuing my master degree in Automation under the supervision of [Jie Mei](https://scholar.google.com/citations?user=tyQm5IkAAAAJ&hl=zh-CN&oi=ao), at [Harbin Institute of Technology, Shenzhen](http://en.hitsz.edu.cn/), China. For more information, please visit my [personal website](https://ck1201.github.io/).
+My name is Chengkai Wu. My interests lie in the fields of **Unmanned Aerial Vehicles (UAVs)**, **Mobile Manipulators** and **Motion Planning**. Currently, I am pursuing my Master's degree in Automation at [Harbin Institute of Technology, Shenzhen](http://en.hitsz.edu.cn/), China, under the guidance of [Jie Mei](https://scholar.google.com/citations?user=tyQm5IkAAAAJ&hl=zh-CN&oi=ao). In addition to this, since January 2023, I have been working as a research assistant at [SYSU-STAR](http://sysu-star.com) group, under the supervision of [Boyu Zhou](https://scholar.google.com/citations?hl=zh-CN&user=-fnyGY4AAAAJ). Previously, in 2022, I completed my Bachelor's degree in Electronic Information Engineering at [College of Electronic and Engineering](http://english.ee.xidian.edu.cn/index.html), [Xidian University](https://en.xidian.edu.cn/). For more information, please visit my [personal website](https://ck1201.github.io/).
 
-😄 I'm interested in UAV, MPC and motion planning.
-
-📫 Email: chengkaiwu12@gmail.com
 <!--
 **CK1201/CK1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

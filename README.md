@@ -3,7 +3,7 @@
 
 😄 Previously, in 2022, I completed my Bachelor's degree in Electronic Information Engineering at [College of Electronic and Engineering](http://english.ee.xidian.edu.cn/index.html), [Xidian University](https://en.xidian.edu.cn/). I was a visiting student supervised by Dr. [Yanjun Cao](http://zju-fast.com/research-group/yanjun-cao/) at [FASTLab](http://zju-fast.com/) from 07/2021 to 09/2021. 
 
-💬 For more information, please visit my [Personal Website](https://ck1201.github.io/).
+💬 For more information, please visit my [Personal Website](https://chengkaiwu.me/).
 
 👯 I am actively seeking PhD opportunities in robotics, with a special focus on motion planning, commencing in Spring 2025.
 
@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table><tr><td align="center" width="55%">
+<table><tr><td align="center" width="50%">
   
 [![ckwu's github stats](https://github-readme-stats.vercel.app/api?username=CK1201&show_icons=true&count_private=true)](https://github.com/CK1201/)
   
-</td><td align="top" width="45%">
+</td><td align="top" width="50%">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CK1201&layout=compact&show_icons=true)](https://github.com/CK1201/github-readme-stats)
   

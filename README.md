@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<table><tr><td align="center" width="50%">
+<table><tr><td align="center" width="52%">
   
 [![ckwu's github stats](https://github-readme-stats.vercel.app/api?username=CK1201&show_icons=true&count_private=true)](https://github.com/CK1201/)
   
-</td><td align="top" width="50%">
+</td><td align="top" width="48%">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CK1201&layout=compact&show_icons=true)](https://github.com/CK1201/github-readme-stats)
   

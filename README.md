@@ -5,7 +5,9 @@
 
 💬 For more information, please visit my [Personal Website](https://chengkaiwu.me/).
 
+<!--
 👯 I am actively seeking PhD opportunities in robotics, with a special focus on motion planning, commencing in Spring 2025.
+-->
 
 <!--
 **CK1201/CK1201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

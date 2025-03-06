@@ -1,7 +1,7 @@
 ### Hi there 👋
-🔭 I am Chengkai Wu. My interests lie in the fields of **Unmanned Aerial Vehicles (UAVs)**, **Mobile Manipulators** and **Motion Planning**. Currently, I am pursuing my Master's degree in Automation at [Harbin Institute of Technology, Shenzhen](http://en.hitsz.edu.cn/), China, under the guidance of [Jie Mei](https://scholar.google.com/citations?user=tyQm5IkAAAAJ&hl=zh-CN&oi=ao). In addition to this, since January 2023, I have been working as a research assistant at [SYSU-STAR](http://sysu-star.com) group, under the supervision of [Boyu Zhou](https://scholar.google.com/citations?hl=zh-CN&user=-fnyGY4AAAAJ). 
+🔭 I am currently pursuing a Ph.D. at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Jun Ma](https://scholar.google.com/citations?user=8VepsVAAAAAJ&hl) since January 2025. Prior to this, I completed my Master's degree in Automation at [Harbin Institute of Technology, Shenzhen](http://en.hitsz.edu.cn) (2022-2024), under the advisement of [Jie Mei](https://scholar.google.com/citations?user=tyQm5IkAAAAJ&hl). I also received my B.Eng. in Electronic Information Engineering from [Xidian University](http://english.ee.xidian.edu.cn/index.html) in 2022.  
 
-😄 Previously, in 2022, I completed my Bachelor's degree in Electronic Information Engineering at [College of Electronic and Engineering](http://english.ee.xidian.edu.cn/index.html), [Xidian University](https://en.xidian.edu.cn/). I was a visiting student supervised by Dr. [Yanjun Cao](http://zju-fast.com/research-group/yanjun-cao/) at [FASTLab](http://zju-fast.com/) from 07/2021 to 09/2021. 
+😄 Since January 2023, I have concurrently served as a visiting researcher at [SYSU-STAR Group](https://robotics-star.com/), supervised by [Boyu Zhou](https://scholar.google.com/citations?user=-fnyGY4AAAAJ).
 
 💬 For more information, please visit my [Personal Website](https://chengkaiwu.me/).
 

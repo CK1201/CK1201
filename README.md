@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭 I am currently pursuing a Ph.D. at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Jun Ma](https://scholar.google.com/citations?user=8VepsVAAAAAJ&hl) since January 2025. Prior to this, I completed my Master's degree in Automation at [Harbin Institute of Technology, Shenzhen](http://en.hitsz.edu.cn) (2022-2024), under the advisement of [Jie Mei](https://scholar.google.com/citations?user=tyQm5IkAAAAJ&hl). I also received my B.Eng. in Electronic Information Engineering from [Xidian University](http://english.ee.xidian.edu.cn/index.html) in 2022.  
 
-😄 Since January 2023, I have concurrently served as a visiting researcher at [SYSU-STAR Group](https://robotics-star.com/), supervised by [Boyu Zhou](https://scholar.google.com/citations?user=-fnyGY4AAAAJ).
+😄 Since January 2023, I have concurrently served as a visiting researcher at [Smart Autonomous Robotics Group](https://robotics-star.com/), supervised by [Boyu Zhou](https://scholar.google.com/citations?user=-fnyGY4AAAAJ).
 
 💬 For more information, please visit my [Personal Website](https://chengkaiwu.me/).
 

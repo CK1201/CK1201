@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 -->
 <table><tr><td align="center" width="52%">
   
-[![ckwu's github stats](https://github-readme-stats.vercel.app/api?username=CK1201&show_icons=true&count_private=true)](https://github.com/CK1201/)
+[![ckwu's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=CK1201&show_icons=true&theme=buefy&hide_border=false&count_private=true&include_orgs=true&role=OWNER,COLLABORATOR)](https://github.com/CK1201/)
   
 </td><td align="center" width="48%">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CK1201&layout=compact&show_icons=true)](https://github.com/CK1201/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CK1201&layout=compact&langs_count=8)](https://github.com/CK1201/github-readme-stats)
   
 </td></tr></table>
 
@@ -38,4 +38,3 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CK1201/CK1201/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CK1201/CK1201/output/github-contribution-grid-snake.svg">
 </picture>
-
